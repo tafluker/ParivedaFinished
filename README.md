@@ -1,6 +1,6 @@
 # ParivedaFinished This is a code project from Spring 2019. There were 6 competitors. The competition was open to a class of 100+ students. 
 
-There are multiple levels in this game. 
+//There are multiple levels in this game. 
 
 You can override levels with the level override button on the control panel.
 
